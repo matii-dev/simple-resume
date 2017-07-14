@@ -5,7 +5,7 @@ p {margin: 0;}
 html, body{
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 100%;
-	background: #F6F6F6;
+	background: #FDF3E7;
 }
 body a{
 	transition:0.5s all;
@@ -32,8 +32,8 @@ a:focus {
 	  width: 50%;
 }
 .header h1{
-    background:#DE1B1B;
-	color:#2B2B2B;
+    background:#C63D0F;
+	color:#3B3738;
 	padding:35px 20px 10px 20px;
 	font-weight:600;
 	display:inline-block;
@@ -51,13 +51,13 @@ a:focus {
 }
 .list ul li {
 	display:inline-block;
-	color:#2B2B2B;
+	color:#3B3738;
 }
 .list ul li a{
-	color:#2B2B2B;
+	color:#3B3738;
 }
 .header-right h2{
-	color:#2B2B2B;
+	color:#3B3738;
 	font-size:3em;
 	margin-top:50px;
 	display: inline-block;
@@ -78,13 +78,13 @@ a:focus {
 	margin:2em 0; 
 }
 .content h3{
-	color:#2B2B2B;
+	color:#3B3738;
 	font-size:1.6em;
 	font-weight:600;
 	  font-style: italic;
 }
 .work,.education {
-  border-left: 11px solid #DE1B1B;
+  border-left: 11px solid #C63D0F;
 }
 .work {
 	margin-bottom:2.5em;
@@ -93,10 +93,10 @@ a:focus {
 	margin-top:2.5em;
 }
 .date p{
-	color: #2B2B2B;
+	color: #3B3738;
   font-size: 1em;
   font-weight: 600;
-  background: #DE1B1B;
+  background: #C63D0F;
   padding: 8px 0px;
   text-align: center;
   border-bottom: 4px solid #000; 
@@ -105,7 +105,7 @@ a:focus {
   margin-right: 3em;
 }
 .posts h4,.college h4{
-	color:#2B2B2B;
+	color:#3B3738;
 	font-size:1.2em;
 	margin-bottom:3px;
 	font-weight:600;
@@ -124,12 +124,12 @@ a:focus {
 	width:19%;
 }
 .city h5{
-	color:#2B2B2B;
+	color:#3B3738;
 	font-size:1.1em;
 	font-weight:600;
 }
 .city p{
-	color:#2B2B2B;
+	color:#3B3738;
 	font-size:1em;
 	font-weight:600;
 }
@@ -147,7 +147,7 @@ a:focus {
 	margin-top:2em;
 }
 .lists{
-	border-left: 11px solid #DE1B1B;
+	border-left: 11px solid #C63D0F;
 	padding-left:15px;
 }
 .date {
@@ -156,7 +156,7 @@ a:focus {
 .sub h5{
 	float:left;
 	width:35%;
-	color:#2B2B2B;
+	color:#3B3738;
 	font-size:1.1em;
 	font-weight:500;
 	display:inline-block;
@@ -170,42 +170,42 @@ a:focus {
   margin:4px 0 25px 0
 }
 .progressy1 p,.progressy2 p {
-  background:#DE1B1B;
+  background:#C63D0F;
   width: 95%;
   height: 15px;
 }
 .progressy3 p{
-	background:#DE1B1B;
+	background:#C63D0F;
   width: 87%;
   height: 15px;
 }
 .progressy4 p{
-	background:#DE1B1B;
+	background:#C63D0F;
   width: 80%;
   height: 15px;
 }
 .progressy6 p{
-	background:#DE1B1B;
+	background:#C63D0F;
   width: 60%;
   height: 15px;
 }
 .progressy7 p{
-	background:#DE1B1B;
+	background:#C63D0F;
   width: 40%;
   height: 15px;
 }
 .progressy8 p{
-	background:#DE1B1B;
+	background:#C63D0F;
   width: 30%;
   height: 15px;
 }
 .progressy9 p{
-	background:#DE1B1B;
+	background:#C63D0F;
   width: 20%;
   height: 15px;
 }
 .progressy10 p{
-	background:#DE1B1B;
+	background:#C63D0F;
   width: 10%;
   height: 15px;
 }
@@ -216,7 +216,7 @@ a:focus {
   line-height: 1.5em;
   color: #999;
   font-weight: 300;
-  border-left: 11px solid #DE1B1B;
+  border-left: 11px solid #C63D0F;
   padding-left:15px; 
 }
 .left_grid{
@@ -228,25 +228,25 @@ a:focus {
 	width:50%;
 }
 ul.list2{
-	 border-left: 11px solid #DE1B1B;
+	 border-left: 11px solid #C63D0F;
   padding-left:30px;
   margin-top:1.5em;
 }
 ul.list2 li{
 	padding:6px 0;
-	color: #2B2B2B;
+	color: #3B3738;
   font-weight: 400;
   font-size:0.95em;
 }
 ul.media_sec li{
 	margin-top:1.5em;
 	display:block;
-	color: #2B2B2B;
+	color: #3B3738;
   font-weight: 500;
 }
 ul.media_sec li a{
 	display:inline-block;
-	color: #2B2B2B;
+	color: #3B3738;
   font-weight: 500;
   font-size:0.95em;
   text-decoration:none;
@@ -267,7 +267,7 @@ ul.media_sec li img{
   color: #999;
 }
 .copywrite p a:hover{
-  color: #DE1B1B;
+  color: #C63D0F;
 }
 /*--responsive--*/
 @media (max-width: 1024px){
@@ -341,7 +341,7 @@ ul.list2 li {
   font-size: 0.8em;
 }
 .lists2 {
-  border-left: 11px solid #DE1B1B;
+  border-left: 11px solid #C63D0F;
   padding-left: 15px;
 }
 .skill-list:nth-child(1){
@@ -421,7 +421,7 @@ ul.list2 li {
   width: 100%;
 }
 ul.media_sec{
-	  border-left: 11px solid #DE1B1B;
+	  border-left: 11px solid #C63D0F;
   padding-left: 15px;
 }
 }
@@ -483,7 +483,7 @@ ul.media_sec{
   font-size:0.9em;
 }
 .work, .education,.info p,.lists,.lists2,ul.list2,ul.media_sec  {
-  border-left: 6px solid #DE1B1B;
+  border-left: 6px solid #C63D0F;
 }
 .progressy1, .progressy2, .progressy3, .progressy4, .progressy6{
   margin: 4px 0 15px 0;
